@@ -1,0 +1,23 @@
+# Flask Demo
+
+Demo app for testing CI services
+
+## Codeship
+
+[ ![Codeship Status for mahnve/flask-demo](https://codeship.io/projects/b75714a0-1725-0132-af64-5ae52864a4c1/status)](https://codeship.io/projects/34010)
+
+## Semaphore
+
+[![Build Status](https://semaphoreapp.com/api/v1/projects/2745aac8-a399-4127-91cd-d438fbfa53d5/242812/badge.png)](https://semaphoreapp.com/mahnve/flask-demo)
+
+## Drone
+
+[![Build Status](https://drone.io/github.com/mahnve/flask-demo/status.png)](https://drone.io/github.com/mahnve/flask-demo/latest)
+
+## CircleCI
+
+[![Circle CI](https://circleci.com/gh/mahnve/flask-demo.png?style=badge)](https://circleci.com/gh/mahnve/flask-demo)
+
+## Solano
+
+[![](https://ci.solanolabs.com:443/mahnve/flask-demo/badges/109894.png?badge_token=8dcb194222d8fa3ad168b7f0c9774580ad1e2be3)](https://ci.solanolabs.com:443/mahnve/flask-demo/suites/109894)
