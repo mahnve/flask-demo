@@ -1,16 +1,3 @@
-machine:
-  services:
-    - docker
-dependencies:
-  override:
-    - docker info
-    - docker build -t mahnve/flask-demo .
 test:
   override:
     - nosetests
-deployment:
-  hub:
-    branch: master
-    commands:
-      - sed "s/<EMAIL>/$DOCKER_EMAIL/;s/<AUTH>/$DOCKER_AUTH/" < .dockercfg.template > ~/.dockercfg
-      - docker push mahnve/flask-demo
