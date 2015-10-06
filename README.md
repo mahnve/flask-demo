@@ -8,7 +8,7 @@ Demo app for testing CI services
 
 ## Semaphore
 
-[![Build Status](https://semaphoreapp.com/api/v1/projects/2745aac8-a399-4127-91cd-d438fbfa53d5/242812/badge.png)](https://semaphoreapp.com/mahnve/flask-demo)
+[![Build Status](https://semaphoreci.com/api/v1/projects/244dbbdc-8342-4d26-99c0-aa177a752fca/562132/badge.svg)](https://semaphoreci.com/mahnve/flask-demo)
 
 ## Drone
 
