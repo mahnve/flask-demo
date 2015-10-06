@@ -4,7 +4,7 @@ Demo app for testing CI services
 
 ## Codeship
 
-[ ![Codeship Status for mahnve/flask-demo](https://codeship.io/projects/b75714a0-1725-0132-af64-5ae52864a4c1/status)](https://codeship.io/projects/34010)
+[![Codeship Status for mahnve/flask-demo](https://codeship.io/projects/b75714a0-1725-0132-af64-5ae52864a4c1/status)](https://codeship.io/projects/34010)
 
 ## Semaphore
 
@@ -28,3 +28,8 @@ Demo app for testing CI services
 [![wercker status](https://app.wercker.com/status/6a9fe78d9f7aa4bc1e8836019f74a01c/s
 "wercker
 status")](https://app.wercker.com/project/bykey/6a9fe78d9f7aa4bc1e8836019f74a01c)
+
+## Shippable
+
+[![Shippable Status](https://img.shields.io/shippable/56140c451895ca44741a816d.svg)(https://app.shippable.com/projects/56140c451895ca44741a816d
+)]
