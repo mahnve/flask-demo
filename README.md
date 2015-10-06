@@ -31,5 +31,4 @@ status")](https://app.wercker.com/project/bykey/6a9fe78d9f7aa4bc1e8836019f74a01c
 
 ## Shippable
 
-[![Shippable Status](https://img.shields.io/shippable/56140c451895ca44741a816d.svg)(https://app.shippable.com/projects/56140c451895ca44741a816d
-)]
+[![Shippable Status](https://img.shields.io/shippable/56140c451895ca44741a816d.svg)](https://app.shippable.com/projects/56140c451895ca44741a816d)
