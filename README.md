@@ -21,3 +21,10 @@ Demo app for testing CI services
 ## Solano
 
 [![](https://ci.solanolabs.com:443/mahnve/flask-demo/badges/109894.png?badge_token=8dcb194222d8fa3ad168b7f0c9774580ad1e2be3)](https://ci.solanolabs.com:443/mahnve/flask-demo/suites/109894)
+
+
+## Wercker
+
+[![wercker status](https://app.wercker.com/status/6a9fe78d9f7aa4bc1e8836019f74a01c/s
+"wercker
+status")](https://app.wercker.com/project/bykey/6a9fe78d9f7aa4bc1e8836019f74a01c)
